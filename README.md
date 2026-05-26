@@ -1,0 +1,1 @@
+This project is basically a beginner program of Python It helps, uh Python to create the user. It accepts the. Of the default system. Then it processes according to the. Time that. Whether it's morning, evening or night. And presents it in a. Beautiful manner. This is a basic program. You can run this. And comment if you like.
